@@ -2,20 +2,20 @@
 
 ## Table of Contents
 1. [SE_Day1: Introduction to Software Engineering]
-   [Part 1: Introduction to Software Engineering](#part-1-introduction-to-software-engineering)
-   - [What is Software Engineering?](#what-is-software-engineering)
-   - [Key Milestones in the Evolution of Software Engineering](#key-milestones-in-the-evolution-of-software-engineering)
-   - [Phases of the Software Development Life Cycle (SDLC)](#phases-of-the-software-development-life-cycle-sdlc)
-   - [Waterfall vs. Agile Methodologies](#waterfall-vs-agile-methodologies)
-   - [Roles and Responsibilities in Software Engineering Team](#roles-and-responsibilities-in-software-engineering-team)
-   - [Importance of IDEs and VCS](#importance-of-ides-and-vcs)
-   - [Common Challenges in Software Engineering](#common-challenges-in-software-engineering)
-   - [Types of Testing](#types-of-testing)
+   * [Part 1: Introduction to Software Engineering](#part-1-introduction-to-software-engineering)
+      - [What is Software Engineering?](#what-is-software-engineering)
+      - [Key Milestones in the Evolution of Software Engineering](#key-milestones-in-the-evolution-of-software-engineering)
+      - [Phases of the Software Development Life Cycle (SDLC)](#phases-of-the-software-development-life-cycle-sdlc)
+      - [Waterfall vs. Agile Methodologies](#waterfall-vs-agile-methodologies)
+      - [Roles and Responsibilities in Software Engineering Team](#roles-and-responsibilities-in-software-engineering-team)
+      - [Importance of IDEs and VCS](#importance-of-ides-and-vcs)
+      - [Common Challenges in Software Engineering](#common-challenges-in-software-engineering)
+      - [Types of Testing](#types-of-testing)
 
-   [Part 2: Introduction to AI and Prompt Engineering](#part-2-introduction-to-ai-and-prompt-engineering)
-   - [Define Prompt Engineering](#define-prompt-engineering)
-   - [Example of a Vague Prompt Improved](#example-of-a-vague-prompt-improved)
-   - [Why Improved](#why-improved)
+   * [Part 2: Introduction to AI and Prompt Engineering](#part-2-introduction-to-ai-and-prompt-engineering)
+      - [Define Prompt Engineering](#define-prompt-engineering)
+      - [Example of a Vague Prompt Improved](#example-of-a-vague-prompt-improved)
+      - [Why Improved](#why-improved)
 
 3. [SE_Day5: Technical Writing: Audience Understanding and Best Practices](#se_day5-technical-writing-audience-understanding-and-best-practices)
    - [How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?](#how-can-understanding-your-audiences-expertise-level-tech-experts-vs-regular-folks-shape-the-way-you-present-technical-information)
